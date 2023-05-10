@@ -3,7 +3,7 @@ music to heal - 22
 music as therapy - 21
 music as a coping - 9
 mood regulation - 5 
-music makes me happy - 16 - (5 to 6 examples of "music does not make me happy", however the problem of transformers being bad at negation is mentioned in limitations already)
+music makes me happy - 16 - (very few examples of "music does not make me happy", however the problem of transformers being bad at negation is mentioned in limitations already)
 music videos - 17 
 sharing music - 29
 music saved life - 35
@@ -24,6 +24,4 @@ music recommendations - 28
 music suggestions - 32
 genric music - 37
 new music - 44 - also has  'need music'
-
-
 can't listen to music anymore - 39 
